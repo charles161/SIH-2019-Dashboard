@@ -1,0 +1,33 @@
+@import url(https://fonts.googleapis.com/css?family=Faster+One);
+
+.c404 {
+    background: #bebaba;
+}
+.wrap {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 80px;
+    margin-top: -40px;
+    width: 1000px;
+    margin-left: -500px;
+}
+#clock {
+    text-align: center;
+    font-size: 80px;
+    color: #a17373;
+    font-family: "Faster One", cursive;
+}
+.mail {
+    position: fixed;
+    bottom: 6em;
+    right: 6em;
+    font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-size: 1em;
+    letter-spacing: 0.125em;
+}
+.mail a {
+    color: #eee7e7;
+    text-decoration: none;
+}
